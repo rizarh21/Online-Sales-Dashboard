@@ -1,12 +1,9 @@
-# Best-Selling Steam Games of All Time Analysis
-This project analyzes and visualizes the online sales transactions across different product categories. The data is self-generated to show the stores with the highest and lowest sales and how the sales results per today are against the sales target.
+# Online Sales Report
+This project was created in the form of a dashboard consists analyzed and visualized the online sales transactions across different product categories. Special thanks to ShreyanshVerma27 and Manar Mohamed for this amazing dataset that contains detailed information such as the order ID, date, category, product name, quantity sold, unit price, total price, region, and payment method of online sales transactions which was collected from various transactions from different accounts worldwide. You can find this dataset at kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
 
 ## Features
-- Determine the maximum and minimum sales of store branches per day
-- Compared the sales relationship of each branch to the sales target
-- Visualization using Matplotlib
+- Shows the sum of revenue, units prices, and quantity of items
+- Interactive visualization sorted by order date, payment method, and product category.
 
 ## Tools
-- Python
-- Pandas
-- Matplotlib
+- Power BI
